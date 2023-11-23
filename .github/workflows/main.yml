@@ -37,4 +37,4 @@ jobs:
       with:
         context: simple-spring-boot-rest-api
         push: true
-        tags: <danamsb>/my-spring-boot-app:${{ env.DATE }}
+        tags: danamsb/my-spring-boot-app:${{ env.DATE }}
